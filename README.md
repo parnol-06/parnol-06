@@ -1,8 +1,8 @@
-# 👋 Hola / Hi, I'm Arnol Pérez
+# 👋 Hola / Hi, I'm Arnol Ferney Pérez Paniagua
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=1D9E75&center=true&vCenter=true&width=600&height=50&lines=IT+Platform+Administrator;QA+Engineer;Transactional+Systems+Specialist;ISO+8583+%7C+Postilion+Expert;Power+BI+%7C+Power+Platform;Machine+Learning+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7F77DD&center=true&vCenter=true&width=600&height=50&lines=IT+Platform+Administrator;QA+Engineer;Transactional+Systems+Specialist;ISO+8583+%7C+Postilion+Expert;Power+BI+%7C+Power+Platform;Machine+Learning+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
