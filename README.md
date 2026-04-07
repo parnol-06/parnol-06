@@ -1,86 +1,116 @@
 # 👋 Hola / Hi, I'm Arnol Pérez
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=QA+Engineer;Data+Analyst;Software+Developer;Automation+Enthusiast;Machine+Learning+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=IT+Platform+Administrator;QA+Engineer;Transactional+Systems+Specialist;ISO+8583+%7C+Postilion;Power+Platform+%7C+Power+BI;Machine+Learning+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-QA%20Engineer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Platform+Admin+%2F+QA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Financial+Systems-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Power+BI+%7C+SQL-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🇪🇸 Sobre mí
 
-💻 Estudiante de **Ingeniería de Sistemas (7º semestre)**  
-🔧 Experiencia en **administración de plataformas y sistemas transaccionales**  
-🧪 Experiencia en **QA y testing de software**  
-📊 Enfoque en **análisis de datos y automatización**
+💻 Estudiante de **Ingeniería de Sistemas (7º semestre)** — Fundación Universitaria Los Libertadores  
+🔧 **Administrador de Plataformas IT** en Firmware S.A.S (desde dic. 2025)  
+🧪 Más de **2 años de experiencia en QA** de software (funcional, regresión, integración)  
+🏦 Especialista en **sistemas transaccionales financieros** y mensajería ISO 8583  
+📊 Automatización de procesos con **Microsoft Power Platform**
 
 He trabajado con:
-- Sistemas financieros 💳  
-- Validación de mensajería ISO 8583  
-- Switch transaccional (Postilion)  
-- Monitoreo de aplicaciones críticas  
+- Switch transaccional **Postilion** 💳
+- Validación de mensajería **ISO 8583** con entidades financieras
+- Bases de datos **Microsoft SQL Server** y **PostgreSQL**
+- Herramientas de gestión: **JIRA, Mantis Bug Tracker, Redmine, Service Manager**
+- **Power Apps + SharePoint** para aplicaciones internas
+- **Power BI** para dashboards y análisis de datos
 
 🚀 Actualmente enfocado en:
-- Desarrollo de software  
-- Machine Learning  
-- Automatización de procesos  
+- Machine Learning aplicado (publicación académica en micromagnetismo computacional)
+- Automatización de procesos y QA
+- Ciberseguridad y defensa de redes
 
 ---
 
 ## 🇺🇸 About Me
 
-💻 **Systems Engineering student (7th semester)**  
-🔧 Experience in **platform and transactional system administration**  
-🧪 Skilled in **software QA and testing**  
-📊 Focused on **data analysis and automation**
+💻 **Systems Engineering student (7th semester)** — Fundación Universitaria Los Libertadores  
+🔧 **IT Platform Administrator** at Firmware S.A.S (since Dec. 2025)  
+🧪 **2+ years of QA experience** — functional, regression, and integration testing  
+🏦 Specialist in **financial transactional systems** and ISO 8583 messaging  
+📊 Process automation with **Microsoft Power Platform**
 
 Experience with:
-- Financial systems 💳  
-- ISO 8583 messaging validation  
-- Transactional switch (Postilion)  
-- Critical application monitoring  
+- **Postilion** transactional switch 💳
+- **ISO 8583** messaging validation with banks and financial entities
+- **Microsoft SQL Server** and **PostgreSQL** database management
+- Helpdesk tools: **JIRA, Mantis Bug Tracker, Redmine, Service Manager**
+- **Power Apps + SharePoint** for internal application development
+- **Power BI** dashboards and data analysis
 
 🚀 Currently focused on:
-- Software development  
-- Machine Learning  
-- Process automation  
+- Applied Machine Learning (academic publication in computational micromagnetism)
+- Process automation and QA
+- Network defense and cybersecurity
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,git,github,docker" />
-<br>
-<img src="https://img.shields.io/badge/SQL-Server-blue?style=flat&logo=microsoftsqlserver" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mantis_Bug_Tracker-grey?style=flat" />
+  <img src="https://img.shields.io/badge/Redmine-B32024?style=flat&logo=redmine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postilion-0055A5?style=flat" />
+  <img src="https://img.shields.io/badge/ISO_8583-005B99?style=flat" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 Projects & Experience Highlights
 
-🚀 Some of my work:
+- 🏦 **Transactional system administration** — Postilion switch + ISO 8583 connectivity with major Colombian banks (Banco de Bogotá, Davivienda, Av. Villas, Banco Popular, CITIBANK, etc.)
+- 📊 **Power BI dashboards** and internal app development with Power Apps + SharePoint (MetLife Colombia)
+- 🔬 **Machine Learning in Computational Micromagnetism** — academic publication and presentation at Fundación Universitaria Los Libertadores
+- 🌌 **Asteroid detection** — participant in the International Astronomical Search Collaboration (IASC) with NASA/IASC certification
+- 🧪 **QA testing pipelines** — functional, regression and integration tests for ERP connections (Falabella CO/PE, Belcorp, GEB, Avianca, Fiduprevisora)
+- 🔐 **Compliance automation** — reporting and process automation with Microsoft Power Platform (MetLife Colombia)
 
-- 🤖 Emotion Recognition with AI (Unity + DeepFace)  
-- 📊 Data Analysis Dashboards  
-- ⚙️ Automation Scripts  
-- 🔐 Financial transaction validation tools  
+---
+
+## 🏆 Achievements
+
+| Achievement | Institution |
+|---|---|
+| 📝 Academic author & speaker — ML in Computational Micromagnetism | Fundación Universitaria Los Libertadores |
+| 🌌 Asteroid identification program | International Astronomical Search Collaboration (IASC / NASA) |
+| 📊 Diplomado en Power BI | Politécnico Superior de Colombia |
+| 🔐 Introduction to Cybersecurity | CISCO |
+| 🛡️ Network Defense | CISCO |
+| ⚠️ Cyber Threat Management | CISCO |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&animate=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
@@ -97,16 +127,22 @@ Experience with:
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="https://www.linkedin.com/in/arnol-pérez-573a941ab">
     <img src="https://img.shields.io/badge/LinkedIn-Arnol%20Pérez-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arnolferneyperez@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-arnolferneyperez%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 🗣️ Languages
 
-💡 I enjoy solving complex problems and turning ideas into real-world solutions.
+| Language | Level |
+|---|---|
+| 🇨🇴 Español | Avanzado / Advanced |
+| 🇺🇸 English | Intermedio / Intermediate |
 
 ---
 
