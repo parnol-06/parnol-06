@@ -1,13 +1,17 @@
 # 👋 Hola / Hi, I'm Arnol Pérez
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=IT+Platform+Administrator;QA+Engineer;Transactional+Systems+Specialist;ISO+8583+%7C+Postilion;Power+Platform+%7C+Power+BI;Machine+Learning+Enthusiast" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=1D9E75&center=true&vCenter=true&width=600&height=50&lines=IT+Platform+Administrator;QA+Engineer;Transactional+Systems+Specialist;ISO+8583+%7C+Postilion+Expert;Power+BI+%7C+Power+Platform;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Platform+Admin+%2F+QA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Financial+Systems-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Power+BI+%7C+SQL-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-%F0%9F%8F%A6%20Financial%20Systems-0F6E56?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISO%208583-185FA5?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Postilion-0055A5?style=flat-square" />
+  <img src="https://img.shields.io/badge/-QA%20Engineer-534AB7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ---
