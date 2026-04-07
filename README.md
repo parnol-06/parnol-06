@@ -2,14 +2,6 @@
   <img src="./Final_banner.svg" width="100%" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%8F%A6%20Financial%20Systems-0F6E56?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISO%208583-185FA5?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Postilion-0055A5?style=flat-square" />
-  <img src="https://img.shields.io/badge/-QA%20Engineer-534AB7?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
-
 ---
 
 ## 🇪🇸 Sobre mí
