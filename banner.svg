@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <style>
+      .bg { fill: #0D0D1A; }
+      .node { fill: #7F77DD; }
+      .node2 { fill: #534AB7; }
+      .node3 { fill: #AFA9EC; }
+      .node4 { fill: #3C3489; }
+      .line { stroke: #7F77DD; stroke-width: 0.7; opacity: 0.35; }
+
+      @keyframes pulse1 { 0%,100%{r:3;opacity:0.9} 50%{r:5;opacity:0.5} }
+      @keyframes pulse2 { 0%,100%{r:2;opacity:0.7} 50%{r:4;opacity:0.3} }
+      @keyframes pulse3 { 0%,100%{r:4;opacity:0.8} 50%{r:2;opacity:0.4} }
+      @keyframes pulse4 { 0%,100%{r:2.5;opacity:0.9} 50%{r:4.5;opacity:0.5} }
+      @keyframes pulse5 { 0%,100%{r:3.5;opacity:0.6} 50%{r:1.5;opacity:1} }
+
+      @keyframes flow1 { 0%{stroke-dashoffset:200} 100%{stroke-dashoffset:0} }
+      @keyframes flow2 { 0%{stroke-dashoffset:150} 100%{stroke-dashoffset:0} }
+      @keyframes flow3 { 0%{stroke-dashoffset:180} 100%{stroke-dashoffset:0} }
+
+      @keyframes fadein { 0%{opacity:0;transform:translateY(8px)} 100%{opacity:1;transform:translateY(0)} }
+
+      .n1 { animation: pulse1 3s ease-in-out infinite; }
+      .n2 { animation: pulse2 4s ease-in-out infinite; }
+      .n3 { animation: pulse3 2.5s ease-in-out infinite; }
+      .n4 { animation: pulse4 3.5s ease-in-out infinite; }
+      .n5 { animation: pulse5 2s ease-in-out infinite; }
+
+      .l1 { stroke-dasharray: 8 4; animation: flow1 3s linear infinite; }
+      .l2 { stroke-dasharray: 6 5; animation: flow2 4s linear infinite; }
+      .l3 { stroke-dasharray: 10 4; animation: flow3 2.5s linear infinite; }
+
+      .title { 
+        font-family: 'Courier New', monospace; 
+        font-size: 21px; font-weight: bold; fill: #ffffff;
+        animation: fadein 1.2s ease forwards;
+      }
+      .accent { fill: #AFA9EC; }
+      .sub { 
+        font-family: 'Courier New', monospace; 
+        font-size: 13px; fill: #7F77DD; letter-spacing: 1.5px;
+        animation: fadein 1.8s ease forwards;
+      }
+      .prompt { fill: #534AB7; font-size: 14px; font-family: 'Courier New', monospace; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D0D1A"/>
+      <stop offset="100%" stop-color="#1A1535"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Lines left cluster -->
+  <line class="line l1" x1="30" y1="40" x2="120" y2="80"/>
+  <line class="line l2" x1="30" y1="40" x2="80" y2="140"/>
+  <line class="line l3" x1="80" y1="140" x2="160" y2="100"/>
+  <line class="line l1" x1="120" y1="80" x2="160" y2="100"/>
+  <line class="line l2" x1="120" y1="80" x2="200" y2="50"/>
+  <line class="line l3" x1="160" y1="100" x2="200" y2="50"/>
+  <line class="line l1" x1="80" y1="140" x2="130" y2="170"/>
+  <line class="line l2" x1="160" y1="100" x2="130" y2="170"/>
+  <line class="line l3" x1="30" y1="40" x2="60" y2="20"/>
+  <line class="line l1" x1="60" y1="20" x2="120" y2="80"/>
+
+  <!-- Lines right cluster -->
+  <line class="line l2" x1="870" y1="30" x2="810" y2="70"/>
+  <line class="line l1" x1="870" y1="30" x2="840" y2="120"/>
+  <line class="line l3" x1="840" y1="120" x2="760" y2="90"/>
+  <line class="line l2" x1="810" y1="70" x2="760" y2="90"/>
+  <line class="line l1" x1="810" y1="70" x2="750" y2="40"/>
+  <line class="line l3" x1="760" y1="90" x2="750" y2="40"/>
+  <line class="line l2" x1="840" y1="120" x2="800" y2="165"/>
+  <line class="line l1" x1="760" y1="90" x2="800" y2="165"/>
+  <line class="line l3" x1="870" y1="30" x2="855" y2="10"/>
+  <line class="line l2" x1="855" y1="10" x2="810" y2="70"/>
+
+  <!-- Extra mid-edge lines -->
+  <line class="line l1" x1="200" y1="50" x2="240" y2="30"/>
+  <line class="line l3" x1="130" y1="170" x2="180" y2="185"/>
+  <line class="line l2" x1="750" y1="40" x2="710" y2="20"/>
+  <line class="line l1" x1="800" y1="165" x2="750" y2="180"/>
+
+  <!-- Left cluster nodes -->
+  <circle class="node n1" cx="30" cy="40" r="3"/>
+  <circle class="node2 n3" cx="60" cy="20" r="2"/>
+  <circle class="node3 n2" cx="120" cy="80" r="4"/>
+  <circle class="node n4" cx="80" cy="140" r="2.5"/>
+  <circle class="node4 n5" cx="160" cy="100" r="3.5"/>
+  <circle class="node3 n1" cx="200" cy="50" r="2"/>
+  <circle class="node n3" cx="130" cy="170" r="3"/>
+  <circle class="node2 n2" cx="240" cy="30" r="2"/>
+  <circle class="node n5" cx="180" cy="185" r="2.5"/>
+
+  <!-- Right cluster nodes -->
+  <circle class="node n2" cx="870" cy="30" r="3"/>
+  <circle class="node3 n4" cx="855" cy="10" r="2"/>
+  <circle class="node2 n1" cx="810" cy="70" r="4"/>
+  <circle class="node n3" cx="840" cy="120" r="2.5"/>
+  <circle class="node4 n2" cx="760" cy="90" r="3.5"/>
+  <circle class="node3 n5" cx="750" cy="40" r="2"/>
+  <circle class="node n1" cx="800" cy="165" r="3"/>
+  <circle class="node2 n3" cx="710" cy="20" r="2"/>
+  <circle class="node n4" cx="750" cy="180" r="2.5"/>
+
+  <!-- Center text -->
+  <text class="prompt" x="320" y="82">~/arnol $&gt;</text>
+  <text class="title" x="320" y="112">
+    <tspan>Arnol Perez </tspan><tspan class="accent">| Data · AI · IT Platform</tspan>
+  </text>
+  <text class="sub" x="320" y="138">ISO 8583 · Postilion · SQL Server · Power BI · ML</text>
+</svg>
