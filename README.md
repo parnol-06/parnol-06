@@ -111,15 +111,6 @@ Experience with:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parnol-06&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnol-06&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
