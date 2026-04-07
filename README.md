@@ -18,7 +18,7 @@
 
 ## 🇪🇸 Sobre mí
 
-💻 Estudiante de **Ingeniería de Sistemas (7º semestre)** — Fundación Universitaria Los Libertadores  
+💻 Estudiante de **Ingeniería de Sistemas (9º semestre)** — Fundación Universitaria Los Libertadores  
 🔧 **Administrador de Plataformas IT** en Firmware S.A.S (desde dic. 2025)  
 🧪 Más de **2 años de experiencia en QA** de software (funcional, regresión, integración)  
 🏦 Especialista en **sistemas transaccionales financieros** y mensajería ISO 8583  
